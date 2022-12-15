@@ -97,9 +97,11 @@ button {
 button:active {
     transform: scale(0.95);
 }
+
 button:focus {
     outline: none;
 }
+
 button.ghost {
     background: transparent;
     border-color: #fff;
